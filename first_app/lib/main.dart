@@ -26,9 +26,9 @@ class _MyAppState extends State<MyApp> {
     {
       'question': 'How old are you?',
       'answers': [
-        {'ans': '3', 'score': 0},
-        {'ans': '4', 'score': 1},
-        {'ans': '5', 'score': 2}
+        {'ans': '4', 'score': 0},
+        {'ans': '40', 'score': 1},
+        {'ans': '44', 'score': 2}
       ]
     },
     {
