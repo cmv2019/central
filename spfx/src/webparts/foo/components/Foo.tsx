@@ -7,7 +7,7 @@ export default class Foo extends React.Component<IFooProps, {}> {
   public render(): React.ReactElement<IFooProps> {
     return (
       <div className={ styles.foo }>
-        <div>This is from Dev branch</div>
+        <div>This is from Main branch</div>
       </div>
     );
   }
